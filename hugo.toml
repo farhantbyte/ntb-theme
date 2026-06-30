@@ -1,8 +1,8 @@
-baseURL = "https://example.org"
+baseURL = "https://dsml.cs12.ir"
 languageCode = "fa-ir"
 # بهتره که به این شکل باشه : اسم مبحث + به سبک تِرِد 
 # مثلا : شبکه به سبک تِرِد
-title = "عنوان سایت"
+title = "دیتا ساینس به سبک تِرِد"
 
 # ===========================================
 # تنظیمات کلی سایت
@@ -10,13 +10,13 @@ title = "عنوان سایت"
 
 [params]
 # توضیح کوتاه برای کل سایت بیشتر بدرد seo میخوره
-description = "توضیح کوتاه مثلا یادگیری شبکه با تِرد های کوتاه"
+description = "آموزش دیتا ساینس و ماشین لرنینگ برای تنبل ها"
 threads_preview_count = 3
 threads_chap_count_per_page = 2
 
 [params.banner]
 # مثلا سیستم عامل یا شبکه
-subject = "اسم مبحث"
+subject = "دیتا ساینس"
 
 # ===========================================
 # تنظیمات دارک مود
@@ -42,11 +42,17 @@ text = " مگه میشه مطلبی بدون لایسنس آخه؟ لایسنس 
 # ===========================================
 
 [params.author]
-name = "اسم نویسنده"
+name = "علیرضاعابدینی"
 # بیوگرافی کوتاه نویسنده که زیر اسمش نمایش داده میشه
-bio = "دانشجوی علوم کامپیوتر و علاقمند به برنامه‌نویسی سطح پایین، در حال حاضر روی پروژه وبها کار می‌کنم"
+bio = "علاقه‌مند به علوم کامپیوتر و معمار سیستم ها، با تمرکز بر بهینه‌ سازی، روش‌ های ابتکاری (Heuristics) و سیستم های یادگیر. مفاهیم را از اصول بنیادین مطالعه می‌ کنم و بر دقت ریاضی و اثبات‌ های سازنده تأکید دارم؛ زیرا معتقدم درک عمیق هر مفهوم باید بر پیاده‌ سازی آن مقدم باشد.
+زمینه‌های مورد علاقه:
+- یادگیری ماشین (Machine Learning)
+- مهندسی ویژگی (Feature Engineering)
+- بینایی ماشین (Computer Vision)
+- مدل های زبانی (Language Modeling)
+- مدل‌ های محاسباتی تطبیقی که پلی میان مبانی نظری و سامانه‌ های مهندسی‌شده ایجاد می‌ کنند."
 # آدرس عکس پروفایل نویسنده 
-avatar = "/assets/static-pic/avatar.png"
+avatar = "/assets/static-pic/avatar.jpg"
 # لینک صفحه دونیت یا حمایت مالی
 donate_url = "#"
 
@@ -61,8 +67,7 @@ donate_url = "#"
 # مثال: {name = "github", url = "https://github.com/user"}
 
 social_links = [
-  {name = "گیت هابم", url = "https://github.com/user"},
-  {name = "تلگرام", url = "#"},
+  {name = "گیت هابم", url = "https://github.com/DoCTheBest01"},
 ]
 
 # ===========================================
@@ -119,7 +124,7 @@ congrats_image = "/assets/static-pic/congrat.gif"
 
 [params.github]
 # آدرس ریپو گیت هابتون رو این شکلی بزارید :  username/repo-name
-repo = "The-CS12/ntb-theme"
+repo = "The-CS12/dsml-course"
 # برنچ اصلی رو هم بزارید...
 branch = "content"
 
@@ -134,7 +139,21 @@ branch = "content"
 # اسکریپتی که از giscus گرفتید رو اینجا پیست کنید
 script = '''
 
-# جای اسکریپتتون این کامنت رو پاک کنید و اسکریپت رو اینجا بزارید.
+<script src="https://giscus.app/client.js"
+        data-repo="The-CS12/dsml-course"
+        data-repo-id="R_kgDOTG0qwQ"
+        data-category="General"
+        data-category-id="DIC_kwDOTG0qwc4DAAMN"
+        data-mapping="title"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="light"
+        data-lang="fa"
+        crossorigin="anonymous"
+        async>
+</script>
 
 '''
 
