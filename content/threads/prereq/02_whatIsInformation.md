@@ -1,10 +1,10 @@
 ---
 title: اطلاعات (Information) چیه؟؟
 date: 2026-07-09T14:53:17+03:30
-draft: true
+draft: false
 order: 1
 description: ""
-license: ""
+license: MIT
 image: ""
 comments: true
 mathEnable: false

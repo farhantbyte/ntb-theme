@@ -1,10 +1,10 @@
 ---
 title: داده (Data) چیه؟؟
 date: 2026-07-09T16:38:32+03:30
-draft: true
+draft: false
 order: 2
 description: ""
-license: ""
+license: MIT
 image: ""
 comments: true
 mathEnable: true
