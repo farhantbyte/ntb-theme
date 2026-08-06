@@ -41,5 +41,5 @@ mathEnable: false
 
 
 <mark>تقریباً هر چیزی که بتواند چیزی را ثبت کند، داده تولید می‌ کند.</mark>
-یا به زبانی دیگر <a href="/threads/prereq/05_howdatalookslike/#:~:text=هر چیزی که ذخیره شود، داده است">هر چیزی که ذخیره شود، داده است<a>
+یا به زبانی دیگر <a href="/threads/prereq/05_howdatalookslike/#:~:text=هر چیزی که ذخیره شود، داده است" target="_blank" >هر چیزی که ذخیره شود، داده است<a>
 {{< /readmore >}}
