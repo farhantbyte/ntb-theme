@@ -48,7 +48,7 @@ bio = "بایو"
 # آدرس عکس پروفایل نویسنده 
 avatar = "/assets/static-pic/avatar.jpg"
 # لینک صفحه دونیت یا حمایت مالی
-donate_url = "#"
+donate_url = "https://hamibash.com/AlirezaAbedini/"
 
 # ===========================================
 # لینک‌های شبکه‌های اجتماعی نویسنده (اختیاری)
