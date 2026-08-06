@@ -1,7 +1,7 @@
 ---
 title: داده بدون زمینه
 date: 2026-08-02T02:27:07+03:30
-draft: true
+draft: false
 order: 7
 description: ""
 license: MIT

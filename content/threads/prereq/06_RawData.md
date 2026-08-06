@@ -1,7 +1,7 @@
 ---
 title: داده خام (Raw Data)
 date: 2026-08-02T02:23:28+03:30
-draft: true
+draft: false
 order: 6
 description: ""
 license: MIT
