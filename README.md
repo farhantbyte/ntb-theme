@@ -47,7 +47,7 @@ hugo new threads/<chapter-dir>/<nameOfPost>.md
 پیشنهاد میکنم نام پست ها رو به صورت عددی بگذارید برای مثال 01 اینطوری بعدا مدیریت thread ها و ordering شون خیلی راحت تر خواهد بود...
 
 ```
-hugo new hugo new threads/<chapter-dir>/01.md
+hugo new threads/<chapter-dir>/01.md
 ```
 
 12. سپس پستی با این محتوا ساخته میشه: 
